@@ -10,6 +10,23 @@ A powerful desktop application for monitoring supplement usage, tracking effects
 
 ---
 
+
+## 📑 Table of Contents
+
+
+1. [Project Objective](#-project-objective)
+2. [Features](#-features)
+3. [Technology Stack](#-technology-stack)
+4. [Installation Instructions](#-installation-instructions)
+5. [Usage Instructions](#-usage-instructions)
+6. [Project Roadmap](#-project-roadmap)
+7. [Contributing](#-contributing)
+8. [License](#-license)
+9. [Contact](#-contact)
+
+
+---
+
 ## 🎯 **Project Objective**
 
 The goal of **Supplemental** is to provide an organized platform for tracking supplement usage, analyzing the benefits or drawbacks of different combinations, and ranking supplements based on their effectiveness.
