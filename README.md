@@ -3,6 +3,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/MigelusMaximus/supplement-tracker)
 ![GitHub issues](https://img.shields.io/github/issues/MigelusMaximus/supplement-tracker)
 ![GitHub stars](https://img.shields.io/github/stars/MigelusMaximus/supplement-tracker?style=social)
+![GitHub license](https://img.shields.io/github/license/MigelusMaximus/supplement-tracker)
+
 
 A powerful desktop application for monitoring supplement usage, tracking effects, assigning grades, and finding the best local prices.
 
