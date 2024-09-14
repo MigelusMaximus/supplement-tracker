@@ -30,3 +30,22 @@ Base.metadata.create_all(engine)
 # Create a session to interact with the database
 Session = sessionmaker(bind=engine)
 session = Session()
+
+
+
+# Function to add a new supplement
+def add_supplement(name, tier, cost, link, image_path):
+    new_supplement = Supplement(name=name, tier=tier, cost=cost, link=link, image_path=image_path)
+    session.add(new_supplement)
+    session.commit()
+
+# Function to query all supplements
+def get_all_supplements():
+    return session.query(Supplement).all()
+
+# Function to delete a supplement by ID
+def delete_supplement(supplement_id):
+    supplement = session.query(Supplement).filter(Supplement.id == supplement_id).first()
+    if supplement:
+        session.delete(supplement)
+        session.commit()
