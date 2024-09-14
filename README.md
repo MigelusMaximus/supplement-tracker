@@ -15,9 +15,9 @@ A powerful desktop application for monitoring supplement usage, tracking effects
 
 
 1. [Project Objective](#-project-objective)
-2. [Features](#features)
+2. [Features](#%EF%B8%8F-features)
 3. [Technology Stack](#-technology-stack)
-4. [Installation Instructions](#-installation-instructions)
+4. [Installation Instructions](#%EF%B8%8F-installation-instructions)
 5. [Usage Instructions](#-usage-instructions)
 6. [Project Roadmap](#-project-roadmap)
 7. [Contributing](#-contributing)
